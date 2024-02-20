@@ -8,6 +8,7 @@ namespace StudentAPI.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
+        // Method to get all students.
         [HttpGet]
         [Route( "students" , Name = "GetAllStudents")]
         public IEnumerable<StudentModel> GetStudents()

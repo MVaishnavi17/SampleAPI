@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj": {}
+    "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\StudentAPI\\StudentAPI\\StudentAPI.csproj": {
+    "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI\\StudentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
+        "projectUniqueName": "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
         "projectName": "StudentAPI",
-        "projectPath": "D:\\.NET\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
-        "packagesPath": "C:\\Users\\Aspire\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\StudentAPI\\StudentAPI\\obj\\",
+        "projectPath": "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI\\StudentAPI.csproj",
+        "packagesPath": "C:\\Users\\vaishnavi.malaisamy\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aspire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vaishnavi.malaisamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,17 +84,17 @@
         }
       }
     },
-    "D:\\.NET\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj": {
+    "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj",
+        "projectUniqueName": "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj",
         "projectName": "StudentAPI_Test",
-        "projectPath": "D:\\.NET\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj",
-        "packagesPath": "C:\\Users\\Aspire\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\StudentAPI\\StudentAPI_Test\\obj\\",
+        "projectPath": "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI_Test\\StudentAPI_Test.csproj",
+        "packagesPath": "C:\\Users\\vaishnavi.malaisamy\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aspire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vaishnavi.malaisamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\.NET\\StudentAPI\\StudentAPI\\StudentAPI.csproj": {
-                "projectPath": "D:\\.NET\\StudentAPI\\StudentAPI\\StudentAPI.csproj"
+              "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI\\StudentAPI.csproj": {
+                "projectPath": "D:\\New folder\\SampleAPI\\StudentAPI\\StudentAPI\\StudentAPI.csproj"
               }
             }
           }
